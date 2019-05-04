@@ -1,2 +1,0 @@
-JangBurger's tech blog
-
